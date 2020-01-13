@@ -1,0 +1,2 @@
+# gradPunishforDefense
+将正样本梯度加入损失函数训练得到的网络与baseline在FGSM下的防御情况比对
